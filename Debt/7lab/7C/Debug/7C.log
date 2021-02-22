@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\elect\source\repos\Debt\7C\Source.cpp(8,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  7C.vcxproj -> C:\Users\elect\source\repos\Debt\Debug\7C.exe

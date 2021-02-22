@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\elect\source\repos\Debt\Debt\Source.cpp(56,36): warning C4244: аргумент: преобразование "int" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\elect\source\repos\Debt\Debt\Source.cpp(74,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Debt.vcxproj -> C:\Users\elect\source\repos\Debt\Debug\7A.exe

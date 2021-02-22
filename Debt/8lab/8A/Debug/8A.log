@@ -1,0 +1,9 @@
+﻿  Num.cpp
+  Source.cpp
+C:\Users\elect\source\repos\Debt\8A\Source.cpp(15,59): warning C4305: аргумент: усечение из "double" в "Type"
+          with
+          [
+              Type=float
+          ]
+  Создание кода...
+  8A.vcxproj -> C:\Users\elect\source\repos\Debt\Debug\8A.exe
